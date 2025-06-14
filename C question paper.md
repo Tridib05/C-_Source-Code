@@ -1,5 +1,5 @@
 Assignment Question paper 2023
-2.write a program that accept a integer number print it in a reverse order
+2.write a program that accept a integer number print it in a reverse order 
 3.write a program in C that prints all numbers between 100-200 which divisible by 5 but not divisible by 15
 4.write a program which accept integer number and print the multiplication of number
 5.S=1+(1+2) +(1+2+3) +(1+2+3+4)...... Write a program to sum the following series
